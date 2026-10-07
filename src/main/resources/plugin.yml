@@ -1,0 +1,8 @@
+name: VaroPlugin
+version: '${version}'
+
+main: de.paulwrdn.varoPlugin.Main
+api-version: '26.3'
+load: STARTUP
+
+authors: [ paulwrdn ]
